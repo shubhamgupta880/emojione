@@ -1,0 +1,2 @@
+assets/fonts/emojione-android.ttf usr/share/fonts/truetype/emojione
+debian/fontconfig/56-emojione.conf etc/fonts/conf.avail
