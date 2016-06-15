@@ -393,3 +393,5 @@ Copyright: © 2016, Michael Sheldon <michael.sheldon@canonical.com>
 License: GAP
  Copying and distribution of the Debian packaging, with or without modification,
  are permitted in any medium without royalty provided the copyright
+ notice and this notice are preserved.  The Debian packaging is offered as-is,
+ without any warranty.
