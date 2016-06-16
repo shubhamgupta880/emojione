@@ -1,5 +1,6 @@
-fonts-emojione (2.2.2-0ubuntu1) UNRELEASED; urgency=medium
+fonts-emojione (2.2.2+16.10.20160616-0ubuntu1) yakkety; urgency=medium
 
   * Initial Debian package release.
+  * Initial Debian packaging
 
- -- Michael Sheldon <michael.sheldon@canonical.com>  Wed, 15 Jun 2016 15:36:10 +0100
+ -- Michael Sheldon <michael.sheldon@canonical.com>  Thu, 16 Jun 2016 13:40:17 +0000
