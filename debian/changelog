@@ -1,3 +1,9 @@
+fonts-emojione (2.2.7+ubports) xenial; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Sun, 07 Jan 2018 23:54:05 +0100
+
 fonts-emojione (2.2.6+16.10.20160804-0ubuntu1) yakkety; urgency=medium
 
   * Upstream 2.2.6 release 
